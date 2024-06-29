@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **practical experience and mentorship in UI/UX design and full-stack development.**
 
-- 👨‍💻 All of my projects are available at [COMING SOON!](COMING SOON!)
+- 👨‍💻 All of my projects are available at https://github.com/stinzer10?tab=projects
 
-- 📝 I regularly write articles on [Substack.com](Substack.com)
+- 🎨 You can also connect with me at Instagram ID: @artistic.py
 
-- 💬 Ask me about **my journey in combining UI/UX design with full-stack development, the projects I’ve worked on, or the technologies I’m currently exploring.**
+- 💬 Ask me about **my journey in combining UI/UX design with full-stack development, the projects I’ve worked on website https://bliss-infotech.com**
 
 - 📄 Know about my experiences [COMING SOON!](COMING SOON!)
 
